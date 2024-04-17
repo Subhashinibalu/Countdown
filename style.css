@@ -1,0 +1,15 @@
+body{
+    background:linear-gradient( 90deg, #FF671F,#FFFFFF,#046A38) !important;
+    color: #06038D  !important;
+    background-repeat: no-repeat;
+    margin-top: 5px;
+}
+span{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 5rem;
+    margin: 250px auto;
+}
